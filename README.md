@@ -334,8 +334,3 @@ This project is provided for educational and research purposes.
 - scikit-learn for traditional ML implementations
 
 ---
-
-**Project Status**: Active Development
-**Last Updated**: November 2024
-
-For questions or issues, please open a GitHub issue or contact the maintainers.
