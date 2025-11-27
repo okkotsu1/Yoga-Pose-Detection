@@ -291,21 +291,6 @@ Global Features: 12 computed angles
 5. Predict: pose name, step, correctness
 6. Display results with skeleton overlay
 
-## 🎯 Model Performance Comparison
-
-Based on typical results:
-
-| Model | Accuracy | Precision | Training Time | Inference Speed |
-|-------|----------|-----------|---------------|-----------------|
-| KNN | ~85% | ~84% | Instant | Fast |
-| SVM | ~87% | ~86% | Medium | Fast |
-| Random Forest | ~89% | ~88% | Fast | Fast |
-| MLP | ~91% | ~90% | Medium | Very Fast |
-| CNN | ~93% | ~92% | Slow | Fast |
-| **GNN** | **~95%** | **~94%** | Slow | Medium |
-
-*Note: Actual performance depends on dataset quality and size*
-
 ## 🚧 Future Improvements
 
 ### Short-term
