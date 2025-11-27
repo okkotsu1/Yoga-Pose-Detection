@@ -291,15 +291,6 @@ Global Features: 12 computed angles
 5. Predict: pose name, step, correctness
 6. Display results with skeleton overlay
 
-## 🤝 Contributing
-
-Contributions are welcome! Areas for improvement:
-- Additional pose datasets
-- New model architectures
-- Performance optimizations
-- Documentation enhancements
-- Bug fixes and testing
-
 ## 📝 Notes
 
 - **GPU Recommended**: GNN and CNN training benefit significantly from CUDA
@@ -307,10 +298,6 @@ Contributions are welcome! Areas for improvement:
 - **Threading**: Adjust `NUM_WORKERS` based on your CPU cores
 - **Memory**: Large datasets may require caching to disk (already implemented)
 - **Mediapipe Version**: Ensure compatible version for consistent landmark detection
-
-## 📄 License
-
-This project is provided for educational and research purposes.
 
 ## 👏 Acknowledgments
 
