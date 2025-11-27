@@ -291,21 +291,6 @@ Global Features: 12 computed angles
 5. Predict: pose name, step, correctness
 6. Display results with skeleton overlay
 
-## 🚧 Future Improvements
-
-### Short-term
-- [ ] Add data augmentation (rotation, scaling, noise)
-- [ ] Implement attention mechanisms in GNN
-- [ ] Add temporal modeling for video sequences
-- [ ] Create web-based deployment interface
-
-### Long-term
-- [ ] Multi-person pose tracking
-- [ ] 3D pose visualization
-- [ ] Pose correction suggestions with visual feedback
-- [ ] Mobile app deployment
-- [ ] Integration with fitness tracking platforms
-
 ## 🤝 Contributing
 
 Contributions are welcome! Areas for improvement:
