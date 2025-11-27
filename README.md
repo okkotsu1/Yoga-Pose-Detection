@@ -1,4 +1,4 @@
-# Yoga Pose Classification System
+# Yoga Pose Detection System
 
 A comprehensive machine learning project for real-time yoga pose classification and correctness evaluation using computer vision and deep learning techniques.
 
